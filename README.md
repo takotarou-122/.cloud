@@ -1,1 +1,3 @@
-# otintincloud
+mkdir awesome
+cd awesome
+git init
